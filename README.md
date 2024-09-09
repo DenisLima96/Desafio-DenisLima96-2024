@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RECINTOS DO ZOO
 
 ## COMO BAIXAR O CÓDIGO E SUBMETER MINHA SOLUÇÃO?
@@ -133,3 +134,7 @@ export { RecintosZoo as RecintosZoo };
 Se todos os passos forem seguidos corretamente, você terá um repositório como o da figura abaixo (lembrando que é permitido criar mais arquivos), onde `seuUsername` é o seu usuário do GitHub, que você informou no questionário da Gupy.
 
 ![Exemplo de repositório](https://startdbstorage.blob.core.windows.net/filecontainer/imagem-estrutura.png)
+=======
+# desafio-DenisLima96-2024
+RECINTOS DO ZOO
+>>>>>>> 5d018d3ac030e1e21b8f4df8c4918843e5b27fb9
